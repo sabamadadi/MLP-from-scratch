@@ -137,7 +137,7 @@ For each activation function, we plotted:
 
 ### 🔹 Training vs Testing Loss and Accuracy
 
-<img src="relu_loss_acc.png" alt="Loss and Accuracy" width="60%"/>
+<img src="images/relu_loss_acc.png" alt="Loss and Accuracy" width="60%"/>
 
 </div>
 
@@ -145,7 +145,7 @@ For each activation function, we plotted:
 
 ### 🔹 Confusion Matrix
 
-<img src="relu_loss_acc.png" alt="Confusion Matrix" width="60%"/>
+<img src="images/relu_loss_acc.png" alt="Confusion Matrix" width="60%"/>
 
 </div>
   
@@ -160,13 +160,13 @@ We report standard classification metrics:
 - **Recall**  
 - **F1-score**  
 
-👉 Insert example screenshot (ReLU):  
+👉 Example screenshot (ReLU):  
 
 <div align="center">
 
 ### 🔹 Evaluation Metrics
 
-<img src="relu.png" alt="Evaluation Metrics" width="60%"/>
+<img src="images/relu.png" alt="Evaluation Metrics" width="60%"/>
 
 </div>
 
